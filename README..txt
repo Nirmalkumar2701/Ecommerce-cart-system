@@ -1,0 +1,3 @@
+This code includes the key components like the Product class, the cart, and discount strategies. You can build upon this foundation to meet your specific needs.
+
+This code provides a basic structure for an E-commerce cart system using Java. It includes the product classes, a cart, and a simple percentage discount strategy. You can expand upon this foundation by adding more products, implementing additional discount strategies, and enhancing the user interface as needed.
